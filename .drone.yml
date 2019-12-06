@@ -9,3 +9,4 @@ steps:
   commands:
   - echo "hello world"
   - echo "it's working"
+  - sleep 100
